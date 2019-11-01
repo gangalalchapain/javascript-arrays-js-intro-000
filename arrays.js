@@ -5,11 +5,14 @@ function addElementToBeginningOfArray(array, element){
   return array;
 }
 
+function destructivelyAddElementToBeginningOfArray(){
+
+}
+
+/*
 function addElementToEndOfArray(array, element){
   array.push(element);
   return array;
 }
 
-function destructivelyAddElementToBeginningOfArray(){
 
-}

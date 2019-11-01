@@ -1,6 +1,6 @@
 function addElementToBeginningOfArray(array, element){
-  return array.unshift("element");
-
+  var myArray =  array;
+  array.unshift(element);
 }
 
 function addElementToEndOfArray(array, element){

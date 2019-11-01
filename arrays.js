@@ -1,8 +1,8 @@
-function addElementToBeginningOfArray(arr, element){
-  return arr.unshift("element");
+function addElementToBeginningOfArray(array, element){
+  return array.unshift("element");
 
 }
 
-function addElementToEndOfArray(arr, element){
-  return arr.push("element");
+function addElementToEndOfArray(array, element){
+  return array.push("element");
 }

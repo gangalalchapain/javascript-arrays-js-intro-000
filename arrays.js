@@ -1,11 +1,11 @@
+var chocolateBars = ["snickers", "hundred grand", "kitkat","skittles"];
+
 function addElementToBeginningOfArray(array, element){
   array.unshift(element);
   return array;
 }
 
 function addElementToEndOfArray(array, element){
-  return array.push("element");
+  array.push("element");
+  return array;
 }
-
-
-var chocolateBars = ["snickers", "hundred grand", "kitkat","skittles"];

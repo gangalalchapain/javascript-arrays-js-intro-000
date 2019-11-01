@@ -6,3 +6,6 @@ function addElementToBeginningOfArray(array, element){
 function addElementToEndOfArray(array, element){
   return array.push("element");
 }
+
+
+var chocolateBars = ["snickers", "hundred grand", "kitkat","skittles"];

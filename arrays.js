@@ -1,5 +1,4 @@
 function addElementToBeginningOfArray(array, element){
-  var myArray =  array;
   array.unshift(element);
 }
 
